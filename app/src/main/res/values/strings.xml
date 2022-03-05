@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">G9 Editor</string>
+    <string name="group_9_oop_text_editor_project">Group 9 OOP Text Editor Project</string>
+    <string name="open_existing_file">Open Existing File</string>
+    <string name="create_txt_file">Create TXT file</string>
+    <string name="hint">Start Writing Here…</string>
+    <string name="name">File Name</string>
+    <string name="button">Save</string>
+    <string name="loadbtn">Load Text File</string>
+</resources>
